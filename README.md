@@ -15,7 +15,7 @@ In the terminal inside the backend folder.
 <br>
 ```$ npm run start```
 <br>
-This starts backend.
+> This starts backend.
 
 In the terminal inside the frontend folder.
 <br>
@@ -23,12 +23,15 @@ In the terminal inside the frontend folder.
 <br>
 ```$ yarn start```
 <br>
+> This starts frontend.
 <br>
+
 To build
 <br>
 ```$ yarn build```
 <br>
-This starts frontend.
+> Compile frontend.
+
 
 <br>
 
