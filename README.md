@@ -9,9 +9,6 @@
 
 ## QUICK GUIDE TO START
 
-First, you need to run "npm install" on the terminal from both folders.
-
-
 In the terminal inside the backend folder.
 <br>
 ```$ npm install```
